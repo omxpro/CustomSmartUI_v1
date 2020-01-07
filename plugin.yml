@@ -1,0 +1,6 @@
+name: CustomSmartUI
+main: nlog\CustomSmartUI\Loader
+version: 1.0
+author: nlog
+api: [4.0.0]
+depend: [SmartUI]
